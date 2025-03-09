@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpetty841
-- I’m testing Azure ML
+- I’m testing GitHub
 - I’m looking to collaborate on code shortcuts
 
 <!---
