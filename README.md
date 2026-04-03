@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jpetty841
-- I’m testing GitHub
-- I’m looking to collaborate on code shortcuts
+- I'm storing code that I'm testing
 
 <!---
 jpetty841/jpetty841 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
